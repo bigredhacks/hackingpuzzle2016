@@ -30,5 +30,3 @@ void main(char * args) {
 	printf("%c%cwwZ56xz8%c\n",me,kazoo,you);	
 	___theOneThingYouCannotGetBack();
 }
-
-// solution:&(&(& is425 this212 --> 7h1s 1s 7h3 @nsw3r!
